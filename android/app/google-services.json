@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "349391612177",
+    "project_id": "aplicacioncodelco-4d678",
+    "storage_bucket": "aplicacioncodelco-4d678.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349391612177:android:d44e57e08ce1c1319604b0",
+        "android_client_info": {
+          "package_name": "com.apptitulacion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349391612177-07gblu2hjqf7j2ejc5vs96l2to32srk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4sb3WiYSr8pfc9GA0597rm5vbMr_2fDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349391612177-07gblu2hjqf7j2ejc5vs96l2to32srk2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349391612177:android:458b68e6f112498f9604b0",
+        "android_client_info": {
+          "package_name": "com.codelcoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349391612177-07gblu2hjqf7j2ejc5vs96l2to32srk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4sb3WiYSr8pfc9GA0597rm5vbMr_2fDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349391612177-07gblu2hjqf7j2ejc5vs96l2to32srk2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
